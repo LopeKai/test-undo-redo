@@ -12,5 +12,5 @@
 
 <h1> Home </h1>
 
-![Captura de tela 2023-04-18 103400](https://user-images.githubusercontent.com/66790414/232794015-a3794062-0af5-4ce1-9852-809a9ac103f3.png)
+![Captura de tela 2023-04-18 103737](https://user-images.githubusercontent.com/66790414/232794962-2d3f075f-e81b-4acf-8001-2f85f91fd414.png)
 
